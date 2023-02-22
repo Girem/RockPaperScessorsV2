@@ -9,6 +9,9 @@ body {
   min-height: 100vh;
   justify-content: space-between;
 }
+.score {
+  text-align: center;
+}
 
 footer {
   background-color: #1f2937;
